@@ -3,8 +3,13 @@ content_type: resource
 description: 'Handwritten notes from Session 12 covering the following topics: Gyroscopes
   (euler angles, spinning top, Poinsot plane, energy ellipsoid, linear stability of
   stationary gyroscope motion).'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/2-032-dynamics-fall-2004/3a0f31f97c301e4fb228b438dc69e599_session_12.pdf
+file: /media/courses/2-032-dynamics-fall-2004/3a0f31f97c301e4fb228b438dc69e599_session_12.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: session_12.pdf
 uid: 3a0f31f9-7c30-1e4f-b228-b438dc69e599

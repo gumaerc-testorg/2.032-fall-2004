@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Solutions for quiz 1.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/2-032-dynamics-fall-2004/fc2b7e04796878bb2483b10f362aba99_quiz1_soln.pdf
+file: /media/courses/2-032-dynamics-fall-2004/fc2b7e04796878bb2483b10f362aba99_quiz1_soln.pdf
 file_type: application/pdf
+learning_resource_types:
+- Exams
+ocw_type: OCWFile
+parent_title: Exams
+parent_type: CourseSection
 resourcetype: Document
 title: quiz1_soln.pdf
 uid: fc2b7e04-7968-78bb-2483-b10f362aba99
