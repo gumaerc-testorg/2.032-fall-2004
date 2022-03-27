@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 4c35b7bf-2f77-ee78-b40d-25a41622bdb8
 resourcetype: Document
 title: pss04.pdf
 uid: a23dfcaf-93cd-d81d-93db-09b5bf949da8

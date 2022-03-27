@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 4c35b7bf-2f77-ee78-b40d-25a41622bdb8
 resourcetype: Document
 title: dyn5.pdf
 uid: 103ed8cd-d11d-18b2-86fe-e5f3c800d738

@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 9b3ad882-31ab-7104-f8bc-27247d964f2a
 resourcetype: Document
 title: practice_ps1.pdf
 uid: 7517a75e-7438-207d-3e73-e40f74a5f3f7

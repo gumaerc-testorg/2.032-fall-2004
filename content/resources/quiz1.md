@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 66875efc-5c9d-2bc4-0ab0-6aa8641052cc
 resourcetype: Document
 title: quiz1.pdf
 uid: 7a690158-da1d-4737-81a6-c3d4b391465b

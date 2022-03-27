@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 9b3ad882-31ab-7104-f8bc-27247d964f2a
 resourcetype: Document
 title: quiz2_03.pdf
 uid: 693ae9a9-358d-29d8-f957-5e488b5b1a55

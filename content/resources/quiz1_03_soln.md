@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 9b3ad882-31ab-7104-f8bc-27247d964f2a
 resourcetype: Document
 title: quiz1_03_soln.pdf
 uid: a4db2827-29fe-8b51-12ec-c77f2c7480bc
