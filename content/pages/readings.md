@@ -1,12 +1,13 @@
 ---
 content_type: page
+description: ''
+draft: false
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
 title: Readings
 uid: dbd68a56-324f-6f75-99ba-a910335f6748
 ---
-
 The course will be based on the material presented in the lectures. There is no required textbook, although the following books are recommended.
 
 Baruh, H. _Analytical Dynamics_. New York, NY: McGraw-Hill, 1998. ISBN: 9780073659770.
@@ -21,353 +22,221 @@ Greenwood, D. T. _Classical Dynamics_. New York, NY: Dover Publications, 1997. I
 
 ———. _Principles of Dynamics_. Upper Saddle River, NJ: Prentice-Hall, 1987. ISBN: 9780137099818.
 
-Suggested Readings
-------------------
+## Suggested Readings
 
 The following table lists sample readings, by lecture session, from Baruh's _Analytical Dynamics_.
 
-{{< tableopen >}}
-{{< tropen >}}
-{{< thopen >}}
+{{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
 LEC #
-{{< thclose >}}
-{{< thopen >}}
+{{< thclose >}}{{< thopen >}}
 TOPICS
-{{< thclose >}}
-{{< thopen >}}
+{{< thclose >}}{{< thopen >}}
 READINGS
-{{< thclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
 1
-{{< tdclose >}}
-{{< tdopen >}}
-Course Overview  
-  
+{{< tdclose >}}{{< tdopen >}}
+
+Course Overview
+
 Single Particle Dynamics: Linear and Angular Momentum Principles, Work-energy Principle
-{{< tdclose >}}
-{{< tdopen >}}
+
+{{< tdclose >}}{{< tdopen >}}
 1.4, 1.6, 1.7
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 2
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Examples of Single Particle Dynamics
-{{< tdclose >}}
-{{< tdopen >}}
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
+ 
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 3
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Examples of Single Particle Dynamics (cont.)
-{{< tdclose >}}
-{{< tdopen >}}
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
+ 
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 4
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Dynamics of Systems of Particles: Linear and Angular Momentum Principles, Work-energy Principle
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 3.1-3.4
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 5
-{{< tdclose >}}
-{{< tdopen >}}
-Dynamics of Systems of Particles (cont.): Examples  
-  
+{{< tdclose >}}{{< tdopen >}}
+
+Dynamics of Systems of Particles (cont.): Examples
+
 Rigid Bodies: Degrees of Freedom
-{{< tdclose >}}
-{{< tdopen >}}
+
+{{< tdclose >}}{{< tdopen >}}
 6.1, 6.2, 7.1, 7.2, 1.5
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 6
-{{< tdclose >}}
-{{< tdopen >}}
-Translation and Rotation of Rigid Bodies  
-  
+{{< tdclose >}}{{< tdopen >}}
+
+Translation and Rotation of Rigid Bodies
+
 Existence of Angular Velocity Vector
-{{< tdclose >}}
-{{< tdopen >}}
+
+{{< tdclose >}}{{< tdopen >}}
 2.4, 2.5
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 7
-{{< tdclose >}}
-{{< tdopen >}}
-Linear Superposition of Angular Velocities  
-  
-Angular Velocity in 2D  
-  
+{{< tdclose >}}{{< tdopen >}}
+
+Linear Superposition of Angular Velocities
+
+Angular Velocity in 2D
+
 Differentiation in Rotating Frames
-{{< tdclose >}}
-{{< tdopen >}}
+
+{{< tdclose >}}{{< tdopen >}}
 2.4, 2.5, 2.6
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 8
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Linear and Angular Momentum Principle for Rigid Bodies
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 8.1, 8.2
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 9
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Work-energy Principle for Rigid Bodies
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 8.9
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 10
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Examples for Lecture 8 Topics
-{{< tdclose >}}
-{{< tdopen >}}
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
+ 
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 11
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Examples for Lecture 9 Topics
-{{< tdclose >}}
-{{< tdopen >}}
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
+ 
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 12
-{{< tdclose >}}
-{{< tdopen >}}
-Gyroscopes: Euler Angles, Spinning Top, Poinsot Plane, Energy Ellipsoid  
-  
+{{< tdclose >}}{{< tdopen >}}
+
+Gyroscopes: Euler Angles, Spinning Top, Poinsot Plane, Energy Ellipsoid
+
 Linear Stability of Stationary Gyroscope Motion
-{{< tdclose >}}
-{{< tdopen >}}
+
+{{< tdclose >}}{{< tdopen >}}
 10.4
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 13
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Generalized Coordinates, Constraints, Virtual Displacements
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 4.1-4.4
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 15
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Generalized Coordinates, Constraints, Virtual Displacements (cont.)
-{{< tdclose >}}
-{{< tdopen >}}
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
+ 
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 16
-{{< tdclose >}}
-{{< tdopen >}}
-Virtual Work, Generalized Force, Conservative Forces  
-  
+{{< tdclose >}}{{< tdopen >}}
+
+Virtual Work, Generalized Force, Conservative Forces
+
 Examples
-{{< tdclose >}}
-{{< tdopen >}}
+
+{{< tdclose >}}{{< tdopen >}}
 4.4, 4.5
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 17
-{{< tdclose >}}
-{{< tdopen >}}
-D'Alembert's Principle  
-  
-Extended Hamilton's Principle  
-  
+{{< tdclose >}}{{< tdopen >}}
+
+D’Alembert’s Principle
+
+Extended Hamilton’s Principle
+
 Principle of Least Action
-{{< tdclose >}}
-{{< tdopen >}}
+
+{{< tdclose >}}{{< tdopen >}}
 4.7, 4.8
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 18
-{{< tdclose >}}
-{{< tdopen >}}
-Examples for Lecture 16 Topics  
-  
-Lagrange's Equation of Motion
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
+
+Examples for Lecture 16 Topics
+
+Lagrange’s Equation of Motion
+
+{{< tdclose >}}{{< tdopen >}}
 4.9
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 19
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Examples for Lecture 17 Topics
-{{< tdclose >}}
-{{< tdopen >}}
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
+ 
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 20
-{{< tdclose >}}
-{{< tdopen >}}
-Lagrange Multipliers, Determining Holonomic Constraint Forces, Lagrange's Equation for Nonholonomic Systems, Examples
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
+Lagrange Multipliers, Determining Holonomic Constraint Forces, Lagrange’s Equation for Nonholonomic Systems, Examples
+{{< tdclose >}}{{< tdopen >}}
 4.10
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 21
-{{< tdclose >}}
-{{< tdopen >}}
-Stability of Conservative Systems  
-  
-Dirichlet's Theorem  
-  
+{{< tdclose >}}{{< tdopen >}}
+
+Stability of Conservative Systems
+
+Dirichlet’s Theorem
+
 Example
-{{< tdclose >}}
-{{< tdopen >}}
 
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
+ 
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 22
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Linearized Equations of Motion Near Equilibria of Holonomic Systems
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 5.3
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 23
-{{< tdclose >}}
-{{< tdopen >}}
-Linearized Equations of Motion for Conservative Systems  
-  
-Stability  
-  
-Normal Modes  
-  
-Mode Shapes  
-  
+{{< tdclose >}}{{< tdopen >}}
+
+Linearized Equations of Motion for Conservative Systems
+
+Stability
+
+Normal Modes
+
+Mode Shapes
+
 Natural Frequencies
-{{< tdclose >}}
-{{< tdopen >}}
+
+{{< tdclose >}}{{< tdopen >}}
 5.5
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 24
-{{< tdclose >}}
-{{< tdopen >}}
-Example for Lecture 23 Topics  
-  
-Orthogonality of Modes Shapes  
-  
+{{< tdclose >}}{{< tdopen >}}
+
+Example for Lecture 23 Topics
+
+Orthogonality of Modes Shapes
+
 Principal Coordinates
-{{< tdclose >}}
-{{< tdopen >}}
+
+{{< tdclose >}}{{< tdopen >}}
 5.6
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 25
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Damped and Forced Vibrations Near Equilibria
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 5.7
-{{< tdclose >}}
+{{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
 
-{{< trclose >}}
-
-{{< tableclose >}}
-
-Other References
-----------------
+## Other References
 
 Goldstein, H. _Classical Mechanics._ Cambridge, MA: Addison-Wesley, 1959.
 
