@@ -6,6 +6,7 @@ file: /courses/2-032-dynamics-fall-2004/4bcff86a05ad980cc2115f542e83480a_session
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: session_15.pdf
 uid: 4bcff86a-05ad-980c-c211-5f542e83480a
 ---
 Handwritten notes from Session 15 covering the following topics: Virtual work, generalized force, conservative forces, and examples.
-

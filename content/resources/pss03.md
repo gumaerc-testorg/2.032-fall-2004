@@ -5,6 +5,7 @@ file: /courses/2-032-dynamics-fall-2004/9044f5826f099bc4a3400a817cfb6412_pss03.p
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: pss03.pdf
 uid: 9044f582-6f09-9bc4-a340-0a817cfb6412
 ---
 Solutions to the homework problems.
-

@@ -7,6 +7,7 @@ file: /courses/2-032-dynamics-fall-2004/bcddf648dd19aba6013c4492620d99e1_dyn9.pd
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: dyn9.pdf
 uid: bcddf648-dd19-aba6-013c-4492620d99e1
 ---
 Homework assignment covering the following topics: Lagrange multipliers, determining holonomic constraint forces, and Lagrange's equation for nonholonomic systems.
-
