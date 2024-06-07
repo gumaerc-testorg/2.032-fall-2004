@@ -2,6 +2,7 @@
 content_type: resource
 description: Handwritten notes from Session 2.
 file: /courses/2-032-dynamics-fall-2004/a8de03f9975d95792f263ad678cab325_session_2.pdf
+file_size: 131224
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

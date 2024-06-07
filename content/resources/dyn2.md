@@ -3,6 +3,7 @@ content_type: resource
 description: 'Homework assignment covering the following topic: Dynamics of systems
   of particles.'
 file: /courses/2-032-dynamics-fall-2004/bbfebc42a6f04ffff3022a6c3ea7ba2e_dyn2.pdf
+file_size: 200732
 file_type: application/pdf
 learning_resource_types:
 - Assignments
