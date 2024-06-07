@@ -2,6 +2,7 @@
 content_type: resource
 description: Quiz 1 problems.
 file: /courses/2-032-dynamics-fall-2004/7a690158da1d473781a6c3d4b391465b_quiz1.pdf
+file_size: 117009
 file_type: application/pdf
 learning_resource_types:
 - Exams

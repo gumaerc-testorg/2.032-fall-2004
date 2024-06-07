@@ -2,6 +2,7 @@
 content_type: resource
 description: Solutions for practice problem set 2.
 file: /courses/2-032-dynamics-fall-2004/7c7aec3bf2881df8304067a3cd83499a_practice_ps2_sol.pdf
+file_size: 277478
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -2,6 +2,7 @@
 content_type: resource
 description: Solutions to the homework problems.
 file: /courses/2-032-dynamics-fall-2004/6d294a78b3b95452b33cabd6582190e8_pss08.pdf
+file_size: 240539
 file_type: application/pdf
 learning_resource_types:
 - Assignments
