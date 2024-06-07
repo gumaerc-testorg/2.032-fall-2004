@@ -3,6 +3,7 @@ content_type: resource
 description: Practice problems covering generalized coordinates, constraints, and
   virtual displacements.
 file: /courses/2-032-dynamics-fall-2004/7517a75e7438207d3e73e40f74a5f3f7_practice_ps1.pdf
+file_size: 39224
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
