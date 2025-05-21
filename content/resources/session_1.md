@@ -3,7 +3,7 @@ content_type: resource
 description: 'Handwritten notes from Session 1 covering the following topics: course
   overview, single particle dynamics (linear and angular momentum principles, work-energy
   principle).'
-file: /ol-ocw-studio-app/courses/2-032-dynamics-fall-2004/7f6d487397c19a0a831072fc45f3ce51_session_1.pdf
+file: /courses/2-032-dynamics-fall-2004/7f6d487397c19a0a831072fc45f3ce51_session_1.pdf
 file_size: 654452
 file_type: application/pdf
 learning_resource_types:

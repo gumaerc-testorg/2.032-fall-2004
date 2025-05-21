@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Practice problem set.
-file: /ol-ocw-studio-app/courses/2-032-dynamics-fall-2004/c0e640a1a10c12d284ac15acebcb0ced_practice_ps2.pdf
+file: /courses/2-032-dynamics-fall-2004/c0e640a1a10c12d284ac15acebcb0ced_practice_ps2.pdf
 file_size: 134259
 file_type: application/pdf
 learning_resource_types: []

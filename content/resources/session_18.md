@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Handwritten notes from Session 18 covering the following topics: D''Alembert''s
   principle, extended Hamilton''s principle, and principle of least action.'
-file: /ol-ocw-studio-app/courses/2-032-dynamics-fall-2004/de6483b5932040f8ed49f293251fa39a_session_18.pdf
+file: /courses/2-032-dynamics-fall-2004/de6483b5932040f8ed49f293251fa39a_session_18.pdf
 file_size: 163353
 file_type: application/pdf
 learning_resource_types:

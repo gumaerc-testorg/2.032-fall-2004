@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Solutions for Quiz 2.
-file: /ol-ocw-studio-app/courses/2-032-dynamics-fall-2004/8f6b466fb95ee3b4d2bad0bee5203cee_quiz2_soln.pdf
+file: /courses/2-032-dynamics-fall-2004/8f6b466fb95ee3b4d2bad0bee5203cee_quiz2_soln.pdf
 file_size: 839962
 file_type: application/pdf
 learning_resource_types:

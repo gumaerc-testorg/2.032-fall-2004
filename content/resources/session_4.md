@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Handwritten notes from Session 4.
-file: /ol-ocw-studio-app/courses/2-032-dynamics-fall-2004/61ededd0162923dcd521ac410afe854b_session_4.pdf
+file: /courses/2-032-dynamics-fall-2004/61ededd0162923dcd521ac410afe854b_session_4.pdf
 file_size: 194052
 file_type: application/pdf
 learning_resource_types:
