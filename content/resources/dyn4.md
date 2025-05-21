@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Homework assignment covering the following topic: Work-energy principle
   for rigid bodies.'
-file: /ol-ocw-studio-app/courses/2-032-dynamics-fall-2004/95f249368aeb0dd4e9fad4bc33d7c5eb_dyn4.pdf
+file: /courses/2-032-dynamics-fall-2004/95f249368aeb0dd4e9fad4bc33d7c5eb_dyn4.pdf
 file_size: 96043
 file_type: application/pdf
 learning_resource_types:

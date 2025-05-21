@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Handwritten notes from Session 14 covering the following topics: Generalized
   coordinates, constraints, and virtual displacements.'
-file: /ol-ocw-studio-app/courses/2-032-dynamics-fall-2004/9844dae45f2ad172742afea349a5f62b_session_14.pdf
+file: /courses/2-032-dynamics-fall-2004/9844dae45f2ad172742afea349a5f62b_session_14.pdf
 file_size: 126758
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Practice quiz problems.
-file: /ol-ocw-studio-app/courses/2-032-dynamics-fall-2004/693ae9a9358d29d8f9575e488b5b1a55_quiz2_03.pdf
+file: /courses/2-032-dynamics-fall-2004/693ae9a9358d29d8f9575e488b5b1a55_quiz2_03.pdf
 file_size: 56892
 file_type: application/pdf
 learning_resource_types: []

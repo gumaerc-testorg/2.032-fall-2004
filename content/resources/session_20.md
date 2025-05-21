@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Handwritten notes from Session 20 covering the following topics: Stability
   of conservative systems, Dirichlet''s theorem, and example.'
-file: /ol-ocw-studio-app/courses/2-032-dynamics-fall-2004/4c69ac5e06dbfccba89165cfd7e88f8f_session_20.pdf
+file: /courses/2-032-dynamics-fall-2004/4c69ac5e06dbfccba89165cfd7e88f8f_session_20.pdf
 file_size: 227027
 file_type: application/pdf
 learning_resource_types:
