@@ -3,7 +3,7 @@ content_type: resource
 description: 'Homework assignment covering the following topics: linearized equations
   of motion for conservative systems, stability, normal modes, mode shapes, and natural
   frequencies.'
-file: /ol-ocw-studio-app/courses/2-032-dynamics-fall-2004/5ffa10137fb89957d4aa7c795183d351_dyn10.pdf
+file: /courses/2-032-dynamics-fall-2004/5ffa10137fb89957d4aa7c795183d351_dyn10.pdf
 file_size: 227564
 file_type: application/pdf
 learning_resource_types:

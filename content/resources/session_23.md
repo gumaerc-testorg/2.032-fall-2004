@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Handwritten notes from Session 23 covering the following topic: Orthogonality
   of modes shapes, and principal coordinates.'
-file: /ol-ocw-studio-app/courses/2-032-dynamics-fall-2004/d88cc5ecf5bc509bc9b06ec543771f40_session_23.pdf
+file: /courses/2-032-dynamics-fall-2004/d88cc5ecf5bc509bc9b06ec543771f40_session_23.pdf
 file_size: 168551
 file_type: application/pdf
 learning_resource_types:

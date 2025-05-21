@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Handwritten notes from Session 1 covering the following topic: Work-energy
   principle for rigid bodies.'
-file: /ol-ocw-studio-app/courses/2-032-dynamics-fall-2004/9de5b9c6ab6a1312375889b8d5830042_session_11.pdf
+file: /courses/2-032-dynamics-fall-2004/9de5b9c6ab6a1312375889b8d5830042_session_11.pdf
 file_size: 120382
 file_type: application/pdf
 learning_resource_types:

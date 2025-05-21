@@ -3,7 +3,7 @@ content_type: resource
 description: 'Handwritten notes from Session 19 covering the following topics: Lagrange
   multipliers, determining holonomic constraint forces, Lagrange''s equation for nonholonomic
   systems, and examples.'
-file: /ol-ocw-studio-app/courses/2-032-dynamics-fall-2004/b8c1db30285c78780c213a7c2b7d3c07_session_19.pdf
+file: /courses/2-032-dynamics-fall-2004/b8c1db30285c78780c213a7c2b7d3c07_session_19.pdf
 file_size: 155735
 file_type: application/pdf
 learning_resource_types:
