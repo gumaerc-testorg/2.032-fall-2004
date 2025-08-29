@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Handwritten notes from Session 10 covering the following topics: Linear
   and angular momentum principle for rigid bodies.'
-file: /courses/2-032-dynamics-fall-2004/dc3f59a32c27cc891e3ea168dc2882ca_session_10.pdf
+file: /ol-ocw-studio-app/courses/2-032-dynamics-fall-2004/dc3f59a32c27cc891e3ea168dc2882ca_session_10.pdf
 file_size: 120323
 file_type: application/pdf
 learning_resource_types:
