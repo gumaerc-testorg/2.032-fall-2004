@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Homework assignment covering the following topic: Lagrange''s equation
   of motion.'
-file: /courses/2-032-dynamics-fall-2004/b43f1509d40599a257ce723d949a92db_dyn7.pdf
+file: /ol-ocw-studio-app/courses/2-032-dynamics-fall-2004/b43f1509d40599a257ce723d949a92db_dyn7.pdf
 file_size: 59266
 file_type: application/pdf
 learning_resource_types:

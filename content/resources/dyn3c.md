@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Homework assignment covering the following topics: Linear and angular
   momentum principle for rigid bodies.'
-file: /courses/2-032-dynamics-fall-2004/24b17a836f68c2bd6c1bde46acb130d5_dyn3c.pdf
+file: /ol-ocw-studio-app/courses/2-032-dynamics-fall-2004/24b17a836f68c2bd6c1bde46acb130d5_dyn3c.pdf
 file_size: 211163
 file_type: application/pdf
 learning_resource_types:
