@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Solutions to the homework problems.
-file: /courses/2-032-dynamics-fall-2004/5c8465f71ec16903d1e779b3a2f69381_pss05.pdf
+file: /ol-ocw-studio-app/courses/2-032-dynamics-fall-2004/5c8465f71ec16903d1e779b3a2f69381_pss05.pdf
 file_size: 325023
 file_type: application/pdf
 learning_resource_types:
